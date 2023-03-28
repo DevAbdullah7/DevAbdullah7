@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igreato1&label=Profile%20views&color=0e75b6&style=flat" alt="igreato1" /> </p>
 <p align="left"> <a href="https://twitter.com/igreato1" target="blank"><img src="https://img.shields.io/twitter/follow/igreato1?logo=twitter&style=for-the-badge" alt="" /></a>
 
-- 🌐 All about me at [https://www.abdullah-alqahtani.me](https://www.abdullah-alqahtani.org)
+- 🌐 All about me at [https://www.abdullah-alqahtani.org](https://www.abdullah-alqahtani.org)
 
 - 💬 How to reach me **info@abdullah-alqahtani.org**
 
