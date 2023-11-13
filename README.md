@@ -2,7 +2,6 @@
 <h1 align="left">Abdullah Alqahtani</h1>
 <h3 align="left">Front-End Developer and Ui-Ux Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevAbdullah7&label=Profile%20views&color=0e75b6&style=flat" alt="DevAbdullah7" /> </p>
 <p align="left"> <a href="https://twitter.com/DevAbdullah7" target="blank"><img src="https://img.shields.io/twitter/follow/DevAbdullah7?logo=twitter&style=for-the-badge" alt="" /></a>
 
 - 🌐 All about me at [https://www.abdullah-alqahtani.com](https://www.abdullah-alqahtani.com)
