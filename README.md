@@ -43,7 +43,7 @@ Then I started learning user experience design, To move up to web programming by
     </td>
     <td valign="middle">
         <h3 style="margin:0;">Azzan Time</h3>
-        <p style="margin:2px 0;">PWA Application for Displaying Prayer Times.</p>
+        <p style="margin:24px 0;">PWA Application for Displaying Prayer Times.</p>
         <span>🔗 </span><a href="#">View Project</a>
     </td>
   </tr>
