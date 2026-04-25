@@ -35,7 +35,7 @@ Then I started learning user experience design, To move up to web programming by
 <br>
 
 ## 🚀 Projects
-<table>
+<table width="100%">
     <tr>
         <td width="80" valign="middle">
             <img src="./assets/imgs/projects/myPortfolio.png" width="64" height="64">
