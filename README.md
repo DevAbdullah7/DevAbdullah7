@@ -90,6 +90,14 @@ Then I started learning user experience design, To move up to web programming by
     </table>
 </div>
 <p align="left">
+  <img src="./assets/imgs/projects/myPortfolio.png" width="100" align="left" style="margin-right:10px;">
+  
+  <h3>My Portfolio:</h3>
+  Portfolio Showcasing all About Me.<br>
+  🔗 <a href="https://devabdullah7.github.io/my-portfolio/">View Project</a>
+</p>
+<br clear="left">
+<p align="left">
   <img src="./assets/imgs/projects/azzanTime.png" width="100" align="left" style="margin-right:10px;">
   
   <h3>Azzan Time:</h3>
