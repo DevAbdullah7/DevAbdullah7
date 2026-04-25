@@ -1,9 +1,9 @@
-<h1 align="left">Abdullah Alqahtani</h1>
-<h3 align="left">Front-End Developer and UI/UX Designer</h3>
-<p align="left">
+## Hi, I’m Abdullah Alqahtani
+### Front-End Developer and UI/UX Designer
+
 I started learning programming in 2019. I learned Python as an introduction to programming,
 Then I started learning user experience design, To move up to web programming by learning the Front-End development, I aspire to complete my journey to become a Full-Stack web developer.
-</p>
+
 
 - 🌐 All about me at [https://www.abdullah-alqahtani.com](https://www.abdullah-alqahtani.com)
 - 💬 How to reach me **info@abdullah-alqahtani.com**
