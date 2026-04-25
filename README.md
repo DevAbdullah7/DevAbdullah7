@@ -50,6 +50,8 @@ Then I started learning user experience design, To move up to web programming by
     </a>
 </p>
 
+<br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAbdullah7&show_icons=true&locale=en&layout=compact" alt="DevAbdullah7" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DevAbdullah7&show_icons=true&locale=en" alt="DevAbdullah7" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevAbdullah7&" alt="DevAbdullah7" /></p>
