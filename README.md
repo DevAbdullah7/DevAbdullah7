@@ -31,8 +31,8 @@ Then I started learning user experience design, To move up to web programming by
     </a>
 </p>
 
-<h3 align="left">Skills</h3>
-<h4 align="left">Development :</h4>
+## 🛠️ Skills
+### Development :
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
