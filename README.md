@@ -39,13 +39,12 @@ Then I started learning user experience design, To move up to web programming by
 <table>
   <tr>
     <td width="80" valign="middle">
-      <img src="./assets/imgs/projects/azzanTime.png" width="60" height="60">
+      <img src="./assets/imgs/projects/azzanTime.png" width="64" height="64">
     </td>
     <td>
         <h2>Azzan Time</h2>
         <p>PWA Application for Displaying Prayer Times.</p>
         <span>🔗 </span><a href="#">View Project</a>
-        <p> </p>
     </td>
   </tr>
 </table>
