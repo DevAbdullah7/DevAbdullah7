@@ -8,6 +8,7 @@ Then I started learning user experience design, To move up to web programming by
 - 🌐 All about me at [https://www.abdullah-alqahtani.com](https://www.abdullah-alqahtani.com)
 - 💬 How to reach me **info@abdullah-alqahtani.com**
 - 📞 If so important **+966500820096**
+
 <br>
 
 ## 🛠️ Skills
@@ -49,6 +50,7 @@ Then I started learning user experience design, To move up to web programming by
     </a>
 </p>
 
+<br>
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAbdullah7&show_icons=true&locale=en&layout=compact" alt="DevAbdullah7" /></p>
