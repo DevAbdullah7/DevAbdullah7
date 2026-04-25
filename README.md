@@ -11,7 +11,7 @@ Then I started learning user experience design, To move up to web programming by
 
 - 📞 If so important **+966500820096**
 
-<h3 align="left">Contact with me :</h3>
+## 📫 Contact with me :
 <p align="left">
     <a href="https://wa.me/966500820096" target="_blank">
         <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
