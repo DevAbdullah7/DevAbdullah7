@@ -6,9 +6,7 @@ Then I started learning user experience design, To move up to web programming by
 </p>
 
 - 🌐 All about me at [https://www.abdullah-alqahtani.com](https://www.abdullah-alqahtani.com)
-
 - 💬 How to reach me **info@abdullah-alqahtani.com**
-
 - 📞 If so important **+966500820096**
 
 <br>
