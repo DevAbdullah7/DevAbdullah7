@@ -59,7 +59,7 @@ Then I started learning user experience design, To move up to web programming by
     </tr>
     <tr>
         <td width="80" valign="middle">
-            <img src="./assets/imgs/projects/azzanTime.png" width="64" height="64">
+            <img src="./assets/imgs/projects/AccoLari.png" width="64" height="64">
         </td>
         <td>
             <h2>Acco Lari:</h2>
