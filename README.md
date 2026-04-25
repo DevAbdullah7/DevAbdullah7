@@ -11,6 +11,23 @@ Then I started learning user experience design, To move up to web programming by
 
 - 📞 If so important **+966500820096**
 
+
+## 🛠️ Skills
+### Development :
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css&logoColor=white)
+![Node](https://img.shields.io/badge/-Node-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white)
+
+### Designing :
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+
+
 ## 📫 Contact with me :
 <p align="left">
     <a href="https://wa.me/966500820096" target="_blank">
@@ -27,22 +44,6 @@ Then I started learning user experience design, To move up to web programming by
         <img src="https://img.shields.io/badge/Follow-@DevAbdullah7-000000?style=for-the-badge&logo=x&logoColor=white"/>
     </a>
 </p>
-
-
-## 🛠️ Skills
-### Development :
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css&logoColor=white)
-![Node](https://img.shields.io/badge/-Node-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white)
-
-### Designing :
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAbdullah7&show_icons=true&locale=en&layout=compact" alt="DevAbdullah7" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DevAbdullah7&show_icons=true&locale=en" alt="DevAbdullah7" /></p>
