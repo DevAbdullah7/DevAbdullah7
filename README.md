@@ -17,6 +17,7 @@ Then I started learning user experience design, To move up to web programming by
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON%20&%20JSON%20API's-f7e44d?style=flat&logo=json&logoColor=black)
 ![Node](https://img.shields.io/badge/-Node-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white)
