@@ -1,5 +1,5 @@
 <img align="left" src="./assets/imgs/myLogoLetterLight.svg" height="90" width="40">
-# Abdullah Alqahtani
+## Abdullah Alqahtani
 ### Front-End Developer and UI/UX Designer
 <p align="left">
 I started learning programming in 2019. I learned Python as an introduction to programming,
