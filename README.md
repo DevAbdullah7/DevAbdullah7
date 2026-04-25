@@ -45,7 +45,7 @@ Then I started learning user experience design, To move up to web programming by
         <h2>Azzan Time</h2>
         <p>PWA Application for Displaying Prayer Times.</p>
         <span>🔗 </span><a href="#">View Project</a>
-        <p>-</p>
+        <p> </p>
     </td>
   </tr>
 </table>
