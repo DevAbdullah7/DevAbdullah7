@@ -101,6 +101,8 @@ Then I started learning user experience design, To move up to web programming by
 
 ---
 
+<br clear="left">
+
 <p align="left">
   <img src="./assets/imgs/projects/azzanTime.png" width="100" align="left" style="margin-right:10px;">
   
@@ -112,6 +114,8 @@ Then I started learning user experience design, To move up to web programming by
 <br clear="left">
 
 ---
+
+<br clear="left">
 
 <p align="left">
   <img src="./assets/imgs/projects/eqla3Tech.png" width="100" align="left" style="margin-right:10px;">
@@ -125,6 +129,8 @@ Then I started learning user experience design, To move up to web programming by
 
 ---
 
+<br clear="left">
+
 <p align="left">
   <img src="./assets/imgs/projects/ishq.png" width="100" align="left" style="margin-right:10px;">
   
@@ -136,6 +142,8 @@ Then I started learning user experience design, To move up to web programming by
 <br clear="left">
 
 ---
+
+<br clear="left">
 
 <p align="left">
   <img src="./assets/imgs/projects/AccoLari.png" width="100" align="left" style="margin-right:10px;">
