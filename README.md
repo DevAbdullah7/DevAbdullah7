@@ -92,21 +92,19 @@ Then I started learning user experience design, To move up to web programming by
 <p align="left">
   <img src="./assets/imgs/projects/azzanTime.png" width="70" align="left" style="margin-right:10px;">
   
-  <h3>Azzan Time:</h3><br>
+  <strong>Azzan Time:</strong><br>
   PWA Application for Displaying Prayer Times.<br>
   🔗 <a href="#">View Project</a>
 </p>
-<p>
-  <img src="./assets/imgs/projects/azzanTime.png" width="70" align="left" style="margin-right:15px; border-radius:8px;" />
-
-  <strong style="font-size:18px;">Azzan Time</strong><br>
-  <span>PWA Application for Displaying Prayer Times.</span><br><br>
-
-  🔗 <a href="#">Live Demo</a> &nbsp; | &nbsp;
-  💻 <a href="#">Source Code</a>
-
-  <br clear="left">
+<p align="left">
+  <img src="./assets/imgs/projects/azzanTime.png" width="70" align="left" style="margin-right:10px;">
+  
+  <h3>Azzan Time</h3>
+  PWA Application for Displaying Prayer Times.<br>
+  🔗 <a href="#">View Project</a>
 </p>
+
+<br clear="left">
 
 <br clear="left">
 
