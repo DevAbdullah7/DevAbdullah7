@@ -35,7 +35,7 @@ Then I started learning user experience design, To move up to web programming by
 <br>
 
 ## 🚀 Projects
-- [**Eqla3 Tech**](https://thamerd.github.io/Thamers_ML_Blog/posts/final_report/final_report.html) - test
+- [**Eqla3 Tech**](#) - Platform For Technical Tutorials.
 
 <br>
 
