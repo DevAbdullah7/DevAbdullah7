@@ -90,7 +90,7 @@ Then I started learning user experience design, To move up to web programming by
     </table>
 </div>
 <p align="left">
-  <img src="./assets/imgs/projects/azzanTime.png" width="90" align="left" style="margin-right:10px;">
+  <img src="./assets/imgs/projects/azzanTime.png" width="100" align="left" style="margin-right:10px;">
   
   <h3>Azzan Time:</h3>
   PWA Application for Displaying Prayer Times.<br>
