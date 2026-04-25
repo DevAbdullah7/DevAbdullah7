@@ -37,14 +37,16 @@ Then I started learning user experience design, To move up to web programming by
 ## 🚀 Projects
 - [**Eqla3 Tech**](#) - Platform For Technical Tutorials.
 - <img src="./assets/imgs/projects/azzanTime.png" alt="Alt text" width="24" height="24"> [**Azzan Time**](#) - PWA Application for Displaying Prayer Times.
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;"><img src="./assets/imgs/projects/azzanTime.png" width="24" height="24"></td>
-    <td style="border: none;"><strong>Azzan Time</strong> - PWA Application for Displaying Prayer Times.</td>
-  </tr>
+<table>
   <tr>
-    <td><img src="./assets/imgs/projects/azzanTime.png" width="24" height="24"></td>
-    <td><strong color="red">Azzan Time</strong> - PWA Application for Displaying Prayer Times.</td>
+    <td width="80" valign="middle">
+      <img src="./assets/imgs/projects/azzanTime.png" width="60" height="60">
+    </td>
+    <td valign="middle">
+      <h3 style="margin:0;">Azzan Time</h3>
+      <p style="margin:5px 0;">PWA Application for Displaying Prayer Times.</p>
+      <a href="#">🔗 View Project</a>
+    </td>
   </tr>
 </table>
 - [**Ishq**](#) - A Website Showcasing the Company's Services.
