@@ -1,4 +1,3 @@
-<img align="left" src="./assets/imgs/myLogoLetterLight.svg" height="40" width="40">
 <h1 align="left">Abdullah Alqahtani</h1>
 <h3 align="left">Front-End Developer and UI/UX Designer</h3>
 <p align="left">
@@ -40,7 +39,7 @@ Then I started learning user experience design, To move up to web programming by
 ![Git](https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white)
 
-<h4 align="left">Designing :</h4>
+### Designing :
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
