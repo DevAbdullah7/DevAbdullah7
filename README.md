@@ -44,17 +44,17 @@ Then I started learning user experience design, To move up to web programming by
         <td>
             <h2>Azzan Time:</h2>
             <p>PWA Application for Displaying Prayer Times.</p>
-            <span>🔗 </span><a href="#">View Project</a>
+            <span>🔗 </span><a href="#" target="_blanck">View Project</a>
         </td>
     </tr>
     <tr>
         <td width="80" valign="middle">
-            <img src="./assets/imgs/projects/azzanTime.png" width="64" height="64">
+            <img src="./assets/imgs/projects/ishq.png" width="64" height="64">
         </td>
         <td>
             <h2>Ishq:</h2>
             <p>A Website Showcasing the Company's Services.</p>
-            <span>🔗 </span><a href="#">View Project</a>
+            <span>🔗 </span><a href="https://devabdullah7.github.io/Ishq/" target="_blanck">View Project</a>
         </td>
     </tr>
     <tr>
