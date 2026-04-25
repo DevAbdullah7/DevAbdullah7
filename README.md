@@ -1,6 +1,6 @@
 <img align="left" src="./assets/imgs/myLogoLetterLight.svg" height="90" width="40">
 <h1 align="left">Abdullah Alqahtani</h1>
-<h3 align="left">Front-End Developer and UI/UX Designer</h3>
+<h2 align="left">Front-End Developer and UI/UX Designer</h2>
 <p align="left">
 I started learning programming in 2019. I learned Python as an introduction to programming,
 Then I started learning user experience design, To move up to web programming by learning the Front-End development, I aspire to complete my journey to become a Full-Stack web developer.
