@@ -38,22 +38,22 @@ Then I started learning user experience design, To move up to web programming by
 <table>
     <tr>
         <td width="80" valign="middle">
-            <img src="./assets/imgs/projects/azzanTime.png" width="64" height="64">
-        </td>
-        <td>
-            <h2>Azzan Time:</h2>
-            <p>PWA Application for Displaying Prayer Times.</p>
-            <span>🔗 </span><a href="#" target="_blank">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td width="80" valign="middle">
             <img src="./assets/imgs/projects/myPortfolio.png" width="64" height="64">
         </td>
         <td>
             <h2>My Portfolio:</h2>
             <p>Portfolio Showcasing all About Me.</p>
             <span>🔗 </span><a href="https://devabdullah7.github.io/my-portfolio/" target="_blank">View Project</a>
+        </td>
+    </tr>
+    <tr>
+        <td width="80" valign="middle">
+            <img src="./assets/imgs/projects/azzanTime.png" width="64" height="64">
+        </td>
+        <td>
+            <h2>Azzan Time:</h2>
+            <p>PWA Application for Displaying Prayer Times.</p>
+            <span>🔗 </span><a href="#" target="_blank">View Project</a>
         </td>
     </tr>
     <tr>
