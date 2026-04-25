@@ -35,7 +35,6 @@ Then I started learning user experience design, To move up to web programming by
 <br>
 
 ## 🚀 Projects
-- [**Eqla3 Tech**](#) - Platform For Technical Tutorials.
 <table>
     <tr>
         <td width="80" valign="middle">
@@ -44,6 +43,16 @@ Then I started learning user experience design, To move up to web programming by
         <td>
             <h2>Azzan Time:</h2>
             <p>PWA Application for Displaying Prayer Times.</p>
+            <span>🔗 </span><a href="#" target="_blank">View Project</a>
+        </td>
+    </tr>
+    <tr>
+        <td width="80" valign="middle">
+            <img src="./assets/imgs/projects/azzanTime.png" width="64" height="64">
+        </td>
+        <td>
+            <h2>Eqla3 Tech:</h2>
+            <p>Platform For Technical Tutorials.</p>
             <span>🔗 </span><a href="#" target="_blank">View Project</a>
         </td>
     </tr>
@@ -64,7 +73,7 @@ Then I started learning user experience design, To move up to web programming by
         <td>
             <h2>Acco Lari:</h2>
             <p>PWA Application for Calculating Currency Differences.</p>
-            <span>🔗 </span><a href="https://devabdullah7.github.io/AccoLari/" target="blank">View Project</a>
+            <span>🔗 </span><a href="https://devabdullah7.github.io/AccoLari/" target="_blank">View Project</a>
         </td>
     </tr>
 </table>
