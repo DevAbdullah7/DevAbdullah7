@@ -44,7 +44,7 @@ Then I started learning user experience design, To move up to web programming by
         <td>
             <h2>Azzan Time:</h2>
             <p>PWA Application for Displaying Prayer Times.</p>
-            <span>🔗 </span><a href="#" target="_blanck">View Project</a>
+            <span>🔗 </span><a href="#" target="_blank">View Project</a>
         </td>
     </tr>
     <tr>
@@ -54,7 +54,7 @@ Then I started learning user experience design, To move up to web programming by
         <td>
             <h2>Ishq:</h2>
             <p>A Website Showcasing the Company's Services.</p>
-            <span>🔗 </span><a href="https://devabdullah7.github.io/Ishq/" target="_blanck">View Project</a>
+            <span>🔗 </span><a href="https://devabdullah7.github.io/Ishq/" target="_blank">View Project</a>
         </td>
     </tr>
     <tr>
@@ -64,7 +64,7 @@ Then I started learning user experience design, To move up to web programming by
         <td>
             <h2>Acco Lari:</h2>
             <p>PWA Application for Calculating Currency Differences.</p>
-            <span>🔗 </span><a href="https://devabdullah7.github.io/AccoLari/" target="_blanck">View Project</a>
+            <span>🔗 </span><a href="https://devabdullah7.github.io/AccoLari/" target="_blank">View Project</a>
         </td>
     </tr>
 </table>
