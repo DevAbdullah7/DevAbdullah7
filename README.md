@@ -107,6 +107,23 @@ Then I started learning user experience design, To move up to web programming by
 
   <br clear="left">
 </p>
+<p>
+  <img src="./assets/imgs/projects/azzanTime.png" width="70" align="left" style="margin-right:15px;" />
+
+  <strong style="font-size:18px;">Azzan Time</strong><br>
+  <span>PWA Application for Displaying Prayer Times.</span><br><br>
+
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
+
+  <br><br>
+
+  🔗 <a href="#">Live Demo</a> &nbsp; | &nbsp;
+  💻 <a href="#">Source Code</a>
+
+  <br clear="left">
+</p>
 
 <br clear="left">
 
