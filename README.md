@@ -97,7 +97,9 @@ Then I started learning user experience design, To move up to web programming by
   🔗 <a href="https://devabdullah7.github.io/my-portfolio/">View Project</a>
 </p>
 
-<hr>
+<br clear="left">
+
+---
 
 <p align="left">
   <img src="./assets/imgs/projects/azzanTime.png" width="100" align="left" style="margin-right:10px;">
@@ -107,7 +109,9 @@ Then I started learning user experience design, To move up to web programming by
   🔗 <a href="#">View Project</a>
 </p>
 
-<hr>
+<br clear="left">
+
+---
 
 <p align="left">
   <img src="./assets/imgs/projects/eqla3Tech.png" width="100" align="left" style="margin-right:10px;">
@@ -117,7 +121,9 @@ Then I started learning user experience design, To move up to web programming by
   🔗 <a href="https://devabdullah7.github.io/Eqla3Tech/">View Project</a>
 </p>
 
-<hr>
+<br clear="left">
+
+---
 
 <p align="left">
   <img src="./assets/imgs/projects/ishq.png" width="100" align="left" style="margin-right:10px;">
@@ -127,7 +133,9 @@ Then I started learning user experience design, To move up to web programming by
   🔗 <a href="https://devabdullah7.github.io/Ishq/">View Project</a>
 </p>
 
-<hr>
+<br clear="left">
+
+---
 
 <p align="left">
   <img src="./assets/imgs/projects/AccoLari.png" width="100" align="left" style="margin-right:10px;">
@@ -136,8 +144,6 @@ Then I started learning user experience design, To move up to web programming by
   PWA Application for Calculating Currency Differences.<br>
   🔗 <a href="https://devabdullah7.github.io/AccoLari/">View Project</a>
 </p>
-
-<hr>
 <br clear="left">
 
 <br>
