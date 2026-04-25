@@ -53,7 +53,7 @@ Then I started learning user experience design, To move up to web programming by
         <td>
             <h2>Eqla3 Tech:</h2>
             <p>Platform For Technical Tutorials.</p>
-            <span>🔗 </span><a href="#" target="_blank">View Project</a>
+            <span>🔗 </span><a href="https://devabdullah7.github.io/Eqla3Tech/" target="_blank">View Project</a>
         </td>
     </tr>
     <tr>
