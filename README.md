@@ -80,7 +80,7 @@ Then I started learning user experience design, To move up to web programming by
 
 <br>
 
-## 📫 Contact with me
+## 📫 Keep in Touch
 <p align="left">
     <a href="https://wa.me/966500820096" target="_blank">
         <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
