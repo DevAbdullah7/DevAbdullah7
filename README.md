@@ -1,4 +1,4 @@
-## Hi, I’m Abdullah Alqahtani
+# Hi, I’m Abdullah Alqahtani
 ### Front-End Developer and UI/UX Designer
 
 I started learning programming in 2019. I learned Python as an introduction to programming,
