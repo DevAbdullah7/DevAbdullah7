@@ -24,7 +24,6 @@ Then I started learning user experience design, To move up to web programming by
 ### Designing :
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=https://www.svgrepo.com/show/130230/adobe-photoshop.svg)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 
 <br>
