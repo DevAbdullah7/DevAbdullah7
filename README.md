@@ -42,6 +42,10 @@ Then I started learning user experience design, To move up to web programming by
     <td><img src="./assets/imgs/projects/azzanTime.png" width="24" height="24"></td>
     <td><strong>Azzan Time</strong> - PWA Application for Displaying Prayer Times.</td>
   </tr>
+  <tr>
+    <td><img src="./assets/imgs/projects/azzanTime.png" width="24" height="24"></td>
+    <td><strong>Azzan Time</strong> - PWA Application for Displaying Prayer Times.</td>
+  </tr>
 </table>
 - [**Ishq**](#) - A Website Showcasing the Company's Services.
 - [**AccoLari**](https://devabdullah7.github.io/AccoLari/) - PWA Application for Calculating Currency Differences.
