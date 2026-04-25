@@ -37,19 +37,41 @@ Then I started learning user experience design, To move up to web programming by
 ## 🚀 Projects
 - [**Eqla3 Tech**](#) - Platform For Technical Tutorials.
 <table>
-  <tr>
-    <td width="80" valign="middle">
-      <img src="./assets/imgs/projects/azzanTime.png" width="64" height="64">
-    </td>
-    <td>
-        <h2>Azzan Time</h2>
-        <p>PWA Application for Displaying Prayer Times.</p>
-        <span>🔗 </span><a href="#">View Project</a>
-    </td>
-  </tr>
+    <tr>
+        <td width="80" valign="middle">
+            <img src="./assets/imgs/projects/azzanTime.png" width="64" height="64">
+        </td>
+        <td>
+            <h2>Azzan Time:</h2>
+            <p>PWA Application for Displaying Prayer Times.</p>
+            <span>🔗 </span><a href="#">View Project</a>
+        </td>
+    </tr>
 </table>
-- [**Ishq**](#) - A Website Showcasing the Company's Services.
-- [**AccoLari**](https://devabdullah7.github.io/AccoLari/) - PWA Application for Calculating Currency Differences.
+<table>
+    <tr>
+        <td width="80" valign="middle">
+            <img src="./assets/imgs/projects/azzanTime.png" width="64" height="64">
+        </td>
+        <td>
+            <h2>Ishq:</h2>
+            <p>A Website Showcasing the Company's Services.</p>
+            <span>🔗 </span><a href="#">View Project</a>
+        </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td width="80" valign="middle">
+            <img src="./assets/imgs/projects/azzanTime.png" width="64" height="64">
+        </td>
+        <td>
+            <h2>AccoLari:</h2>
+            <p>PWA Application for Calculating Currency Differences.</p>
+            <span>🔗 </span><a href="https://devabdullah7.github.io/AccoLari/" target="_blanck">View Project</a>
+        </td>
+    </tr>
+</table>
 
 <br>
 
