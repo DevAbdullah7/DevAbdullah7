@@ -42,8 +42,9 @@ Then I started learning user experience design, To move up to web programming by
       <img src="./assets/imgs/projects/azzanTime.png" width="60" height="60">
     </td>
     <td valign="middle">
-        <h3 style="margin:0;">Azzan Time</h3><p style="margin:5px 0;">PWA Application for Displaying Prayer Times.</p>
-        <span style="margin-right:8px;">🔗</span><a href="#">View Project</a>
+        <h3 style="margin:0;">Azzan Time</h3>
+        <p style="margin:4px 0;">PWA Application for Displaying Prayer Times.</p>
+        <span>🔗 </span><a href="#">View Project</a>
     </td>
   </tr>
 </table>
