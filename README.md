@@ -92,7 +92,7 @@ Then I started learning user experience design, To move up to web programming by
 <p align="left">
   <img src="./assets/imgs/projects/azzanTime.png" width="70" align="left" style="margin-right:10px;">
   
-  <strong>Azzan Time</strong><br>
+  <h3>Azzan Time:</h3><br>
   PWA Application for Displaying Prayer Times.<br>
   🔗 <a href="#">View Project</a>
 </p>
