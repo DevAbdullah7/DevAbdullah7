@@ -37,7 +37,7 @@ Then I started learning user experience design, To move up to web programming by
 ## 🚀 Projects
 - [**Eqla3 Tech**](#) - Platform For Technical Tutorials.
 - <img src="./assets/imgs/projects/azzanTime.png" alt="Alt text" width="24" height="24"> [**Azzan Time**](#) - PWA Application for Displaying Prayer Times.
-<table>
+<table style="border: none;">
   <tr>
     <td><img src="./assets/imgs/projects/azzanTime.png" width="24" height="24"></td>
     <td><strong>Azzan Time</strong> - PWA Application for Displaying Prayer Times.</td>
