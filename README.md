@@ -35,8 +35,10 @@ Then I started learning user experience design, To move up to web programming by
 <br>
 
 ## 🚀 Projects
-- [**Eqla3 Tech**]() - Platform For Technical Tutorials.
-- [**Azzan Time**]() - PWA Application for Displaying Prayer Times.
+- [**Eqla3 Tech**](#) - Platform For Technical Tutorials.
+- [**Azzan Time**](#) - PWA Application for Displaying Prayer Times.
+- [**Ishq**](#) - A Website Showcasing the Company's Services.
+- [**AccoLari**](#) - PWA app for calculating currency differences.
 
 <br>
 
