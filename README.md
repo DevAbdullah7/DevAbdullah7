@@ -1,5 +1,5 @@
 # Hi, I’m Abdullah Alqahtani
-### Front-End Developer and UI/UX Designer
+### UI/UX Designer and Front-End Developer
 
 I started learning programming in 2019. I learned Python as an introduction to programming,
 Then I started learning user experience design, To move up to web programming by learning the Front-End development, I aspire to complete my journey to become a Full-Stack web developer.
