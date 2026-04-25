@@ -1,4 +1,4 @@
-<img align="left" src="./assets/imgs/myLogoLetterLight.svg" height="90" width="40">
+<img align="left" src="./assets/imgs/myLogoLetterLight.svg" height="40" width="40">
 <h1 align="left">Abdullah Alqahtani</h1>
 <h3 align="left">Front-End Developer and UI/UX Designer</h3>
 <p align="left">
