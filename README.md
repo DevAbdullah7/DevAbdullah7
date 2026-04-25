@@ -97,8 +97,6 @@ Then I started learning user experience design, To move up to web programming by
   🔗 <a href="https://devabdullah7.github.io/my-portfolio/">View Project</a>
 </p>
 
-<br clear="left">
-
 ---
 
 <p align="left">
@@ -108,8 +106,6 @@ Then I started learning user experience design, To move up to web programming by
   PWA Application for Displaying Prayer Times.<br>
   🔗 <a href="#">View Project</a>
 </p>
-
-<br clear="left">
 
 ---
 
@@ -121,8 +117,6 @@ Then I started learning user experience design, To move up to web programming by
   🔗 <a href="https://devabdullah7.github.io/Eqla3Tech/">View Project</a>
 </p>
 
-<br clear="left">
-
 ---
 
 <p align="left">
@@ -133,8 +127,6 @@ Then I started learning user experience design, To move up to web programming by
   🔗 <a href="https://devabdullah7.github.io/Ishq/">View Project</a>
 </p>
 
-<br clear="left">
-
 ---
 
 <p align="left">
@@ -144,8 +136,6 @@ Then I started learning user experience design, To move up to web programming by
   PWA Application for Calculating Currency Differences.<br>
   🔗 <a href="https://devabdullah7.github.io/AccoLari/">View Project</a>
 </p>
-
-<br clear="left">
 
 ---
 <br clear="left">
