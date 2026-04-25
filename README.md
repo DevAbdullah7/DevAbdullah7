@@ -96,7 +96,6 @@ Then I started learning user experience design, To move up to web programming by
   Portfolio Showcasing all About Me.<br>
   🔗 <a href="https://devabdullah7.github.io/my-portfolio/">View Project</a>
 </p>
-<br clear="left">
 <p align="left">
   <img src="./assets/imgs/projects/azzanTime.png" width="100" align="left" style="margin-right:10px;">
   
@@ -104,7 +103,6 @@ Then I started learning user experience design, To move up to web programming by
   PWA Application for Displaying Prayer Times.<br>
   🔗 <a href="#">View Project</a>
 </p>
-<br clear="left">
 <p align="left">
   <img src="./assets/imgs/projects/eqla3Tech.png" width="100" align="left" style="margin-right:10px;">
   
@@ -112,7 +110,6 @@ Then I started learning user experience design, To move up to web programming by
   Platform For Technical Tutorials.<br>
   🔗 <a href="https://devabdullah7.github.io/Eqla3Tech/">View Project</a>
 </p>
-<br clear="left">
 <p align="left">
   <img src="./assets/imgs/projects/ishq.png" width="100" align="left" style="margin-right:10px;">
   
@@ -120,7 +117,6 @@ Then I started learning user experience design, To move up to web programming by
   A Website Showcasing the Company's Services.<br>
   🔗 <a href="https://devabdullah7.github.io/Ishq/">View Project</a>
 </p>
-<br clear="left">
 <p align="left">
   <img src="./assets/imgs/projects/AccoLari.png" width="100" align="left" style="margin-right:10px;">
   
