@@ -1,12 +1,10 @@
 <img align="left" src="./assets/imgs/myLogoLetterLight.svg" height="90" width="40">
 <h1 align="left">Abdullah Alqahtani</h1>
+<h3 align="left">Front-End Developer and UI/UX Designer</h3>
 <p align="left">
 I started learning programming in 2019. I learned Python as an introduction to programming,
 Then I started learning user experience design, To move up to web programming by learning the Front-End development, I aspire to complete my journey to become a Full-Stack web developer.
 </p>
-
-
-<h3 align="left">Front-End Developer and UI/UX Designer</h3>
 
 - 🌐 All about me at [https://www.abdullah-alqahtani.com](https://www.abdullah-alqahtani.com)
 
@@ -30,6 +28,7 @@ Then I started learning user experience design, To move up to web programming by
         <img src="https://img.shields.io/badge/Follow-@DevAbdullah7-000000?style=for-the-badge&logo=x&logoColor=white"/>
     </a>
 </p>
+
 
 ## 🛠️ Skills
 ### Development :
