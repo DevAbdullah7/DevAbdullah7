@@ -80,7 +80,7 @@ Currently expanding my skills toward becoming a MERN Full-Stack Developer.
 
 ## 🎓 Certificates
 <p align="left" style="margin:10px;">
-  <img src="./assets/imgs/certificates/UX.png" width="368" align="left" style="margin-right:10px;">
+  <img src="./assets/imgs/certificates/UX.png" width="352" align="left" style="margin-right:10px;">
   
   <h3>Foundations of User Experience (UX) Design:</h3>
   To understand foundational concepts in UX design, such as user-centered design, the design process, accessibility, and equity-focused design. <br><br>
