@@ -83,7 +83,7 @@ Currently expanding my skills toward becoming a MERN Full-Stack Developer.
   <img src="./assets/imgs/certificates/UX.png" width="150" align="left" style="margin-right:10px;">
   
   <h3>Foundations of User Experience (UX) Design:</h3>
-  <span><img src="https://img.shields.io/badge/User%20Centered-lightgrey" alt="Skill Badge"></span>
+  <span><img src="https://img.shields.io/badge/User%20Centered-grey" alt="Skill Badge"></span>
   <span><img src="https://img.shields.io/badge/Sprint%20Retrospectives-gray" alt="Skill Badge"></span>
   <span><img src="https://img.shields.io/badge/Design%20Thinking-gray" alt="Skill Badge"></span>
   <span><img src="https://img.shields.io/badge/User%20Experience-gray" alt="Skill Badge"></span>
