@@ -89,7 +89,7 @@ Then I started learning user experience design, To move up to web programming by
         </tr>
     </table>
 </div>
-<p align="left" style="margin-bottom:10px;">
+<p align="left" style="margin:10px;">
   <img src="./assets/imgs/projects/myPortfolio.png" width="100" align="left" style="margin-right:10px;">
   
   <h3>My Portfolio:</h3>
@@ -97,7 +97,7 @@ Then I started learning user experience design, To move up to web programming by
   🔗 <a href="https://devabdullah7.github.io/my-portfolio/">View Project</a>
 </p>
 
-<p align="left" style="margin-bottom:10px;">
+<p align="left" style="margin:10px;">
   <img src="./assets/imgs/projects/azzanTime.png" width="100" align="left" style="margin-right:10px;">
   
   <h3>Azzan Time:</h3>
@@ -105,7 +105,7 @@ Then I started learning user experience design, To move up to web programming by
   🔗 <a href="#">View Project</a>
 </p>
 
-<p align="left" style="margin-bottom:10px;">
+<p align="left" style="margin:10px;">
   <img src="./assets/imgs/projects/eqla3Tech.png" width="100" align="left" style="margin-right:10px;">
   
   <h3>Eqla3 Tech:</h3>
@@ -113,7 +113,7 @@ Then I started learning user experience design, To move up to web programming by
   🔗 <a href="https://devabdullah7.github.io/Eqla3Tech/">View Project</a>
 </p>
 
-<p align="left" style="margin-bottom:10px;">
+<p align="left" style="margin:10px;">
   <img src="./assets/imgs/projects/ishq.png" width="100" align="left" style="margin-right:10px;">
   
   <h3>Ishq:</h3>
@@ -121,7 +121,7 @@ Then I started learning user experience design, To move up to web programming by
   🔗 <a href="https://devabdullah7.github.io/Ishq/">View Project</a>
 </p>
 
-<p align="left" style="margin-bottom:10px;">
+<p align="left" style="margin:10px;">
   <img src="./assets/imgs/projects/AccoLari.png" width="100" align="left" style="margin-right:10px;">
   
   <h3>Acco Lari:</h3>
