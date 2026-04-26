@@ -85,7 +85,7 @@ Currently expanding my skills toward becoming a MERN Full-Stack Developer.
   <h3>Foundations of User Experience (UX) Design:</h3>
   <strong>Certificate Provider: </strong><br>
   Coursera
-  <h4>Skills gained :</h4>
+  <strong>Skills gained :</strong><br>
   <span><img src="https://img.shields.io/badge/User%20Centered-grey" alt="Skill Badge"></span>
   <span><img src="https://img.shields.io/badge/Sprint%20Retrospectives-grey" alt="Skill Badge"></span>
   <span><img src="https://img.shields.io/badge/Design%20Thinking-grey" alt="Skill Badge"></span>
