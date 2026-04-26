@@ -80,7 +80,7 @@ Currently expanding my skills toward becoming a MERN Full-Stack Developer.
 
 ## 🎓 Certificates
 <p align="left" style="margin:10px;">
-  <img src="./assets/imgs/certificates/UX.png" width="256" align="left" style="margin-right:10px;">
+  <img src="./assets/imgs/certificates/UX.png" width="200" align="left" style="margin-right:10px;">
   
   <h3>Foundations of User Experience (UX) Design:</h3>
   <h4>Skills gained :</h4>
