@@ -90,7 +90,7 @@ Then I started learning user experience design, To move up to web programming by
     </table>
 </div>
 <p align="left" style="margin:10px;">
-  <img src="./assets/imgs/projects/myPortfolio.png" width="100" align="left" style="margin-right:16px;">
+  <img src="./assets/imgs/projects/myPortfolio.png" width="150" align="left" style="margin-right:16px;">
   
   <h3>My Portfolio:</h3>
   Portfolio Showcasing all About Me.<br>
