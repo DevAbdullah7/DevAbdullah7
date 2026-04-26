@@ -94,6 +94,4 @@ Currently expanding my skills toward becoming a MERN Full-Stack Developer.
         <img src="https://img.shields.io/badge/Follow-@DevAbdullah7-000000?style=for-the-badge&logo=x&logoColor=white"/>
     </a>
 </p>
-
-<br>
-<br>
+<br clear="left">
