@@ -1,5 +1,4 @@
 # Hi, I’m Abdullah Alqahtani
-### UI/UX Designer and Front-End Developer
 
 UI/UX Designer with strong Front-End development background, focused on crafting clean, modern, and user-centered digital experiences.
 I design intuitive interfaces and bring them to life using HTML, CSS, and JavaScript, with a strong focus on usability, accessibility, and visual consistency.
