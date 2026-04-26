@@ -80,10 +80,10 @@ Currently expanding my skills toward becoming a MERN Full-Stack Developer.
 
 ## 🎓 Certificates
 <p align="left" style="margin:10px;">
-  <img src="./assets/imgs/certificates/UX.png" width="100" align="left" style="margin-right:10px;">
+  <img src="./assets/imgs/certificates/UX.png" width="150" align="left" style="margin-right:10px;">
   
   <h3>Foundations of User Experience (UX) Design:</h3>
-  <img src="https://img.shields.io/badge/User%20Centered-gray" alt="Skill Badge">
+  <span><img src="https://img.shields.io/badge/User%20Centered-gray" alt="Skill Badge"></span>
   🔗 <a href="https://devabdullah7.github.io/my-portfolio/">View Certificate</a>
 </p>
 <br clear="left">
