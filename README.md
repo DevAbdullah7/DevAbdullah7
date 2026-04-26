@@ -38,7 +38,7 @@ Currently expanding my skills toward becoming a MERN Full-Stack Developer.
 <p align="left" style="margin:10px;">
   <img src="./assets/imgs/projects/myPortfolio.png" width="100" align="left" style="margin-right:10px;">
   
-  <h3>My Portfolio:</h3>
+  <h3>My Portfolio :</h3>
   Portfolio Showcasing all About Me.<br>
   🔗 <a href="https://devabdullah7.github.io/my-portfolio/">View Project</a>
 </p>
@@ -46,7 +46,7 @@ Currently expanding my skills toward becoming a MERN Full-Stack Developer.
 <p align="left" style="margin:10px;">
   <img src="./assets/imgs/projects/ishq.png" width="100" align="left" style="margin-right:10px;">
   
-  <h3>Ishq Foundation:</h3>
+  <h3>Ishq Foundation :</h3>
   A Website Showcasing the Foundation's Services.<br>
   🔗 <a href="https://devabdullah7.github.io/Ishq/">View Project</a>
 </p>
@@ -54,7 +54,7 @@ Currently expanding my skills toward becoming a MERN Full-Stack Developer.
 <p align="left" style="margin:10px;">
   <img src="./assets/imgs/projects/eqla3Tech.png" width="100" align="left" style="margin-right:10px;">
   
-  <h3>Eqla3 Tech:</h3>
+  <h3>Eqla3 Tech :</h3>
   Platform For Technical Tutorials.<br>
   🔗 <a href="https://devabdullah7.github.io/Eqla3Tech/">View Project</a>
 </p>
@@ -62,7 +62,7 @@ Currently expanding my skills toward becoming a MERN Full-Stack Developer.
 <p align="left" style="margin:10px;">
   <img src="./assets/imgs/projects/azzanTime.png" width="100" align="left" style="margin-right:10px;">
   
-  <h3>Azzan Time:</h3>
+  <h3>Azzan Time :</h3>
   PWA Application for Displaying Prayer Times.<br>
   🔗 <a href="#">View Project</a>
 </p>
@@ -70,7 +70,7 @@ Currently expanding my skills toward becoming a MERN Full-Stack Developer.
 <p align="left" style="margin:10px;">
   <img src="./assets/imgs/projects/AccoLari.png" width="100" align="left" style="margin-right:10px;">
   
-  <h3>Acco Lari:</h3>
+  <h3>Acco Lari :</h3>
   PWA Application for Calculating Currency Difference Between GEL and SAR.<br>
   🔗 <a href="https://devabdullah7.github.io/AccoLari/">View Project</a>
 </p>
@@ -83,7 +83,7 @@ Currently expanding my skills toward becoming a MERN Full-Stack Developer.
   <img src="./assets/imgs/certificates/UX.png" width="256" align="left" style="margin-right:10px;">
   
   <h3>Foundations of User Experience (UX) Design:</h3>
-  Skills gained:<br>
+  Skills gained :<br><br>
   <span><img src="https://img.shields.io/badge/User%20Centered-grey" alt="Skill Badge"></span>
   <span><img src="https://img.shields.io/badge/Sprint%20Retrospectives-grey" alt="Skill Badge"></span>
   <span><img src="https://img.shields.io/badge/Design%20Thinking-grey" alt="Skill Badge"></span>
@@ -93,7 +93,7 @@ Currently expanding my skills toward becoming a MERN Full-Stack Developer.
   <span><img src="https://img.shields.io/badge/Wireframing-grey" alt="Skill Badge"></span>
   <span><img src="https://img.shields.io/badge/Usability-grey" alt="Skill Badge"></span>
   <span><img src="https://img.shields.io/badge/Sprint%20Planning-grey" alt="Skill Badge"></span>
-  <span><img src="https://img.shields.io/badge/User%20Research-grey" alt="Skill Badge"></span><br>
+  <span><img src="https://img.shields.io/badge/User%20Research-grey" alt="Skill Badge"></span><br><br>
   🔗 <a href="https://devabdullah7.github.io/my-portfolio/">View Certificate</a>
 </p>
 <br clear="left">
