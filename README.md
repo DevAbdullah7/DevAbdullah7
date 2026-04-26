@@ -63,7 +63,7 @@ Then I started learning user experience design, To move up to web programming by
   <img src="./assets/imgs/projects/ishq.png" width="100" align="left" style="margin-right:10px;">
   
   <h3>Ishq Foundation:</h3>
-  A Website Showcasing the Company's Services.<br>
+  A Website Showcasing the Foundation's Services.<br>
   🔗 <a href="https://devabdullah7.github.io/Ishq/">View Project</a>
 </p>
 
