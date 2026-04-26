@@ -90,7 +90,7 @@ Then I started learning user experience design, To move up to web programming by
     </table>
 </div>
 <p align="left" style="margin:10px;">
-  <img src="./assets/imgs/projects/myPortfolio.png" width="100" align="left" style="margin-right:10px;">
+  <img src="./assets/imgs/projects/myPortfolio.png" width="100" align="left" style="margin-right:16px;">
   
   <h3>My Portfolio:</h3>
   Portfolio Showcasing all About Me.<br>
@@ -98,7 +98,7 @@ Then I started learning user experience design, To move up to web programming by
 </p>
 
 <p align="left" style="margin:10px;">
-  <img src="./assets/imgs/projects/azzanTime.png" width="100" align="left" style="margin-right:10px;">
+  <img src="./assets/imgs/projects/azzanTime.png" width="100" align="left" style="margin-right:16px;">
   
   <h3>Azzan Time:</h3>
   PWA Application for Displaying Prayer Times.<br>
@@ -106,7 +106,7 @@ Then I started learning user experience design, To move up to web programming by
 </p>
 
 <p align="left" style="margin:10px;">
-  <img src="./assets/imgs/projects/eqla3Tech.png" width="100" align="left" style="margin-right:10px;">
+  <img src="./assets/imgs/projects/eqla3Tech.png" width="100" align="left" style="margin-right:16px;">
   
   <h3>Eqla3 Tech:</h3>
   Platform For Technical Tutorials.<br>
@@ -114,7 +114,7 @@ Then I started learning user experience design, To move up to web programming by
 </p>
 
 <p align="left" style="margin:10px;">
-  <img src="./assets/imgs/projects/ishq.png" width="100" align="left" style="margin-right:10px;">
+  <img src="./assets/imgs/projects/ishq.png" width="100" align="left" style="margin-right:16px;">
   
   <h3>Ishq:</h3>
   A Website Showcasing the Company's Services.<br>
@@ -122,7 +122,7 @@ Then I started learning user experience design, To move up to web programming by
 </p>
 
 <p align="left" style="margin:10px;">
-  <img src="./assets/imgs/projects/AccoLari.png" width="100" align="left" style="margin-right:10px;">
+  <img src="./assets/imgs/projects/AccoLari.png" width="100" align="left" style="margin-right:16px;">
   
   <h3>Acco Lari:</h3>
   PWA Application for Calculating Currency Differences.<br>
