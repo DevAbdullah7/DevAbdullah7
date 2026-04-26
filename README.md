@@ -78,6 +78,18 @@ Currently expanding my skills toward becoming a MERN Full-Stack Developer.
 
 <br>
 
+## 🎓 Certificates
+<p align="left" style="margin:10px;">
+  <img src="./assets/imgs/certificates/UX.png" width="100" align="left" style="margin-right:10px;">
+  
+  <h3>Foundations of User Experience (UX) Design:</h3>
+  Portfolio Showcasing all About Me.<br>
+  🔗 <a href="https://devabdullah7.github.io/my-portfolio/">View Certificate</a>
+</p>
+<br clear="left">
+
+<br>
+
 ## 📫 Keep in Touch
 <p align="left">
     <a href="https://wa.me/966500820096" target="_blank">
