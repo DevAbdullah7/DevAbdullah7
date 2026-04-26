@@ -35,40 +35,40 @@ Currently expanding my skills toward becoming a MERN Full-Stack Developer.
 <br>
 
 ## 🚀 Projects
-<p align="left">
-  <img src="./assets/imgs/projects/myPortfolio.png" width="100" align="left" style="margin-right:10px;">
+<p align="left" style="margin:10px;">
+  <img src="./assets/imgs/projects/myPortfolio.png" width="100" align="left">
   
   <h3>My Portfolio :</h3>
   Portfolio Showcasing all About Me.<br>
   🔗 <a href="https://devabdullah7.github.io/my-portfolio/">View Project</a>
 </p>
 
-<p align="left">
-  <img src="./assets/imgs/projects/ishq.png" width="100" align="left" style="margin-right:10px;">
+<p align="left" style="margin:10px;">
+  <img src="./assets/imgs/projects/ishq.png" width="100" align="left">
   
   <h3>Ishq Foundation :</h3>
   A Website Showcasing the Foundation's Services.<br>
   🔗 <a href="https://devabdullah7.github.io/Ishq/">View Project</a>
 </p>
 
-<p align="left">
-  <img src="./assets/imgs/projects/eqla3Tech.png" width="100" align="left" style="margin-right:10px;">
+<p align="left" style="margin:10px;">
+  <img src="./assets/imgs/projects/eqla3Tech.png" width="100" align="left">
   
   <h3>Eqla3 Tech :</h3>
   Platform For Technical Tutorials.<br>
   🔗 <a href="https://devabdullah7.github.io/Eqla3Tech/">View Project</a>
 </p>
 
-<p align="left">
-  <img src="./assets/imgs/projects/azzanTime.png" width="100" align="left" style="margin-right:10px;">
+<p align="left" style="margin:10px;">
+  <img src="./assets/imgs/projects/azzanTime.png" width="100" align="left">
   
   <h3>Azzan Time :</h3>
   PWA Application for Displaying Prayer Times.<br>
   🔗 <a href="#">View Project</a>
 </p>
 
-<p align="left">
-  <img src="./assets/imgs/projects/AccoLari.png" width="100" align="left" style="margin-right:10px;">
+<p align="left" style="margin:10px;">
+  <img src="./assets/imgs/projects/AccoLari.png" width="100" align="left">
   
   <h3>Acco Lari :</h3>
   PWA Application for Calculating Currency Difference Between GEL and SAR.<br>
