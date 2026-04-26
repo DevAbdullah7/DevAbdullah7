@@ -84,6 +84,15 @@ Currently expanding my skills toward becoming a MERN Full-Stack Developer.
   
   <h3>Foundations of User Experience (UX) Design:</h3>
   <span><img src="https://img.shields.io/badge/User%20Centered-gray" alt="Skill Badge"></span>
+  <span><img src="https://img.shields.io/badge/Sprint%20Retrospectives-gray" alt="Skill Badge"></span>
+  <span><img src="https://img.shields.io/badge/Design%20Thinking-gray" alt="Skill Badge"></span>
+  <span><img src="https://img.shields.io/badge/User%20Experience-gray" alt="Skill Badge"></span>
+  <span><img src="https://img.shields.io/badge/Prototyping-gray" alt="Skill Badge"></span>
+  <span><img src="https://img.shields.io/badge/Ideation-gray" alt="Skill Badge"></span>
+  <span><img src="https://img.shields.io/badge/Wireframing-gray" alt="Skill Badge"></span>
+  <span><img src="https://img.shields.io/badge/Usability-gray" alt="Skill Badge"></span>
+  <span><img src="https://img.shields.io/badge/Sprint%20Planning-gray" alt="Skill Badge"></span>
+  <span><img src="https://img.shields.io/badge/User%20Research-gray" alt="Skill Badge"></span><br>
   🔗 <a href="https://devabdullah7.github.io/my-portfolio/">View Certificate</a>
 </p>
 <br clear="left">
