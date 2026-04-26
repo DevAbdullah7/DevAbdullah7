@@ -83,7 +83,7 @@ Currently expanding my skills toward becoming a MERN Full-Stack Developer.
   <img src="./assets/imgs/certificates/UX.png" width="352" align="left" style="margin-right:10px;">
   
   <h3>Foundations of User Experience (UX) Design:</h3>
-  To understand foundational concepts in UX design, such as user-centered design, the design process, accessibility, and equity-focused design. <br><br>
+  Focused on foundational concepts in UX design, such as user-centered design, the design process, accessibility, and equity-focused design. <br><br>
   <h4>Skills gained :</h4>
   <span><img src="https://img.shields.io/badge/User%20Centered-grey" alt="Skill Badge"></span>
   <span><img src="https://img.shields.io/badge/Sprint%20Retrospectives-grey" alt="Skill Badge"></span>
