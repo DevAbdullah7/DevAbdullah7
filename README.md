@@ -71,7 +71,7 @@ Then I started learning user experience design, To move up to web programming by
   <img src="./assets/imgs/projects/AccoLari.png" width="100" align="left" style="margin-right:10px;">
   
   <h3>Acco Lari:</h3>
-  PWA Application for Calculating Currency Between GEL and SAR.<br>
+  PWA Application for Calculating Currency Difference Between GEL and SAR.<br>
   🔗 <a href="https://devabdullah7.github.io/AccoLari/">View Project</a>
 </p>
 <br clear="left">
