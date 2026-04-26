@@ -36,7 +36,7 @@ Currently expanding my skills toward becoming a MERN Full-Stack Developer.
 
 ## 🚀 Projects
 <p align="left" style="margin:10px;">
-  <img src="./assets/imgs/projects/myPortfolio.png" width="100" align="left" style="margin-right:10px;">
+  <img src="./assets/imgs/projects/myPortfolio.png" width="108" align="left" style="margin-right:10px;">
   
   <h3>My Portfolio :</h3>
   Portfolio Showcasing all About Me.<br>
@@ -44,7 +44,7 @@ Currently expanding my skills toward becoming a MERN Full-Stack Developer.
 </p>
 
 <p align="left" style="margin:10px;">
-  <img src="./assets/imgs/projects/ishq.png" width="100" align="left" style="margin-right:10px;">
+  <img src="./assets/imgs/projects/ishq.png" width="108" align="left" style="margin-right:10px;">
   
   <h3>Ishq Foundation :</h3>
   A Website Showcasing the Foundation's Services.<br>
@@ -52,7 +52,7 @@ Currently expanding my skills toward becoming a MERN Full-Stack Developer.
 </p>
 
 <p align="left" style="margin:10px;">
-  <img src="./assets/imgs/projects/eqla3Tech.png" width="100" align="left" style="margin-right:10px;">
+  <img src="./assets/imgs/projects/eqla3Tech.png" width="108" align="left" style="margin-right:10px;">
   
   <h3>Eqla3 Tech :</h3>
   Platform For Technical Tutorials.<br>
@@ -60,7 +60,7 @@ Currently expanding my skills toward becoming a MERN Full-Stack Developer.
 </p>
 
 <p align="left" style="margin:10px;">
-  <img src="./assets/imgs/projects/azzanTime.png" width="100" align="left" style="margin-right:10px;">
+  <img src="./assets/imgs/projects/azzanTime.png" width="108" align="left" style="margin-right:10px;">
   
   <h3>Azzan Time :</h3>
   PWA Application for Displaying Prayer Times.<br>
@@ -68,7 +68,7 @@ Currently expanding my skills toward becoming a MERN Full-Stack Developer.
 </p>
 
 <p align="left" style="margin:10px;">
-  <img src="./assets/imgs/projects/AccoLari.png" width="100" align="left" style="margin-right:10px;">
+  <img src="./assets/imgs/projects/AccoLari.png" width="108" align="left" style="margin-right:10px;">
   
   <h3>Acco Lari :</h3>
   PWA Application for Calculating Currency Difference Between GEL and SAR.<br>
