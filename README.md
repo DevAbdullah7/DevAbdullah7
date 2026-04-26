@@ -42,7 +42,6 @@ Currently expanding my skills toward becoming a MERN Full-Stack Developer.
   Portfolio Showcasing all About Me.<br>
   🔗 <a href="https://devabdullah7.github.io/my-portfolio/">View Project</a>
 </p>
-<br clear="left">
 
 <p align="left" style="margin:10px;">
   <img src="./assets/imgs/projects/ishq.png" width="100" align="left" style="margin-right:10px;">
