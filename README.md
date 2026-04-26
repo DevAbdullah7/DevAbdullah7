@@ -44,19 +44,19 @@ Then I started learning user experience design, To move up to web programming by
 </p>
 
 <p align="left" style="margin:10px;">
-  <img src="./assets/imgs/projects/eqla3Tech.png" width="100" align="left" style="margin-right:10px;">
-  
-  <h3>Eqla3 Tech:</h3>
-  Platform For Technical Tutorials.<br>
-  🔗 <a href="https://devabdullah7.github.io/Eqla3Tech/">View Project</a>
-</p>
-
-<p align="left" style="margin:10px;">
   <img src="./assets/imgs/projects/ishq.png" width="100" align="left" style="margin-right:10px;">
   
   <h3>Ishq Foundation:</h3>
   A Website Showcasing the Foundation's Services.<br>
   🔗 <a href="https://devabdullah7.github.io/Ishq/">View Project</a>
+</p>
+
+<p align="left" style="margin:10px;">
+  <img src="./assets/imgs/projects/eqla3Tech.png" width="100" align="left" style="margin-right:10px;">
+  
+  <h3>Eqla3 Tech:</h3>
+  Platform For Technical Tutorials.<br>
+  🔗 <a href="https://devabdullah7.github.io/Eqla3Tech/">View Project</a>
 </p>
 
 <p align="left" style="margin:10px;">
